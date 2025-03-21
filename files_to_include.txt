@@ -1,0 +1,1116 @@
+D:/test jeux tt/Nouveau dossier\ai2.py
+D:/test jeux tt/Nouveau dossier\cards.json
+D:/test jeux tt/Nouveau dossier\users.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\ai.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\inventairetest.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\inventory_manager.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\ai_logic.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\irc_client2.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\irc_client3.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\irc_client4.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\sound-start.wav
+D:/test jeux tt/Nouveau dossier\fichier ancien\sound-turn.wav
+D:/test jeux tt/Nouveau dossier\fichier ancien\gamelogic.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\test_jeux_tt2.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\irc_client7.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\nouveau_test_triple_triad_game33.1.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\card.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\cards.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\coordinates.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\bgm.mp3
+D:/test jeux tt/Nouveau dossier\fichier ancien\sound-card.wav
+D:/test jeux tt/Nouveau dossier\fichier ancien\drawing.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\tooltip.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\users.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\capture_manager.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\utils.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\rules.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\selected_cards.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\003.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\003.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\004.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\004.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\005.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\006.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\006.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\007.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\007.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\008.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\008.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\009.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\009.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\010.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\010.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\011.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\011.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\012.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\012.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\013.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\013.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\014.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\014.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\015.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\015.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\016.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\018.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\018.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\board-mat.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\spinner.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\019.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\019.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\020.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\020.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\021.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\021.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\022.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\022.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\023.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\023.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\024.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\024.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\025.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\025.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\026.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\026.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\027.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\027.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\028.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\028.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\029.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\029.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\030.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\030.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\031.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\031.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\032.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\032.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\033.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\033.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\034.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\034.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\035.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\035.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\036.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\036.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\037.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\037.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\038.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\038.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\039.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\039.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\040.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\040.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\041.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\041.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\042.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\042.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\043.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\043.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\044.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\044.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\045.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\045.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\046.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\046.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\047.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\047.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\048.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\048.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\049.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\049.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\050.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\050.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\051.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\051.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\052.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\052.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\053.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\053.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\054.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\054.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\055.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\055.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\056.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\056.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\057.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\057.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\058.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\058.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\059.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\059.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\060.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\060.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\061.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\061.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\062.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\062.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\063.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\063.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\064.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\064.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\065.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\065.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\066.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\066.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\067.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\067.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\068.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\068.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\069.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\069.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\070.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\070.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\071.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\071.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\072.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\072.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\073.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\073.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\074.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\074.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\075.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\075.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\076.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\076.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\077.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\077.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\078.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\078.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\079.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\079.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\080.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\080.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\081.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\081.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\082.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\082.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\083.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\083.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\084.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\084.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\085.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\085.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\086.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\086.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\087.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\087.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\088.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\088.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\089.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\089.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\090.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\090.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\091.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\091.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\092.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\092.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\093.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\093.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\094.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\094.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\095.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\095.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\096.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\096.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\097.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\097.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\098.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\098.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\099.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\099.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\100.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\100.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\101.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\101.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\102.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\102.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\103.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\103.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\104.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\104.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\105.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\105.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\106.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\106.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\107.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\107.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\108.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\108.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\109.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\109.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\110.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\110.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\bonus.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\card-back.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\card.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cardbleu.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cardrouge.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cursor.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\element.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\frame-1-normal.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\frame-2-boss.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\frame-3-gf.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\frame-4-character.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-auto.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-info.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-pause.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-play.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-restart.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-rules.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-sound-off.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\icon-sound-on.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\info-box.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\info-text.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\rank.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\result.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\score.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\special.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\016.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\spinner.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\017.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\017.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\001.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\board-mat1.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\001.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\002.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\002.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\005.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\006.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\007.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\008.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\009.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\010.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\011.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\012.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\013.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\014.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\015.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\016.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\017.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\018.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\019.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\020.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\021.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\022.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\023.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\024.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\025.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\026.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\027.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\028.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\029.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\030.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\031.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\032.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\033.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\034.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\035.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\036.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\037.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\038.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\039.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\040.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\041.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\042.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\043.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\044.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\045.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\046.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\047.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\048.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\049.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\050.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\051.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\052.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\053.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\054.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\055.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\056.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\057.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\058.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\059.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\060.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\061.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\062.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\063.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\064.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\065.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\066.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\067.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\068.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\069.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\070.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\071.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\072.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\073.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\074.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\075.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\076.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\077.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\078.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\079.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\080.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\081.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\082.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\083.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\084.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\085.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\086.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\087.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\088.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\089.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\090.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\091.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\092.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\093.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\094.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\095.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\096.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\097.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\098.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\099.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\100.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\101.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\102.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\103.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\104.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\105.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\106.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\107.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\108.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\109.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\110.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\frame-1-normal.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\frame-2-boss.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\frame-3-gf.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\frame-4-character.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\001.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\002.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\003.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\Img\cards\004.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\bgm.mp3
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\cards.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\selected_cards.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\sound-turn.wav
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\test_jeux_tt2.py
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\users.json
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\001.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\001.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\002.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\002.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\003.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\003.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\004.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\004.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\005.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\006.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\006.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\007.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\007.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\008.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\008.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\009.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\009.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\010.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\010.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\011.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\011.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\012.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\012.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\013.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\013.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\014.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\014.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\015.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\015.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\016.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\016.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\017.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\017.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\018.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\018.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\019.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\019.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\020.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\020.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\021.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\021.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\022.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\022.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\023.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\023.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\024.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\024.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\025.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\025.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\026.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\026.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\027.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\027.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\028.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\028.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\029.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\029.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\030.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\030.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\031.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\031.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\032.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\032.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\033.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\033.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\034.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\034.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\035.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\035.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\036.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\036.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\037.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\037.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\038.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\038.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\039.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\039.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\040.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\040.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\041.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\041.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\042.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\042.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\043.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\043.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\044.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\044.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\045.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\045.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\046.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\046.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\047.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\047.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\048.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\048.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\049.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\049.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\050.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\050.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\051.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\051.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\052.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\052.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\053.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\053.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\054.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\054.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\055.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\055.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\056.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\056.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\057.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\057.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\058.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\058.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\059.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\059.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\060.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\060.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\061.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\061.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\062.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\062.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\063.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\063.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\064.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\064.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\065.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\065.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\066.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\066.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\067.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\067.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\068.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\068.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\069.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\069.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\070.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\070.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\071.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\071.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\072.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\072.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\073.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\073.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\074.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\074.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\075.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\075.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\076.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\076.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\077.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\077.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\078.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\078.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\079.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\079.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\080.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\080.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\081.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\081.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\082.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\082.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\083.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\083.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\084.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\084.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\085.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\085.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\086.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\086.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\087.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\087.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\088.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\088.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\089.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\089.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\090.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\090.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\091.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\091.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\092.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\092.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\093.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\093.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\094.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\094.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\095.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\095.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\096.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\096.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\097.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\097.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\098.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\098.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\099.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\099.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\100.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\100.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\101.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\101.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\102.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\102.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\103.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\103.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\104.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\104.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\105.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\105.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\106.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\106.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\107.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\107.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\108.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\108.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\109.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\109.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\110.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\110.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\board-mat.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\board-mat1.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\bonus.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\card-back.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\card.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\cardbleu.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\cardrouge.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\cursor.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\element.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\frame-1-normal.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\frame-2-boss.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\frame-3-gf.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\frame-4-character.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-auto.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-info.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-pause.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-play.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-restart.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-rules.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-sound-off.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\icon-sound-on.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\info-box.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\info-text.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\rank.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\result.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\score.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\special.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\spinner.jpg
+D:/test jeux tt/Nouveau dossier\fichier ancien\dist\irc_client7\_internal\Img\spinner.png
+D:/test jeux tt/Nouveau dossier\fichier ancien\irc_client7.build\scons-debug.py
+D:/test jeux tt/Nouveau dossier\fichier obselete\game_components.py
+D:/test jeux tt/Nouveau dossier\fichier obselete\game_logic.py
+D:/test jeux tt/Nouveau dossier\Img\001.jpg
+D:/test jeux tt/Nouveau dossier\Img\001.png
+D:/test jeux tt/Nouveau dossier\Img\002.jpg
+D:/test jeux tt/Nouveau dossier\Img\002.png
+D:/test jeux tt/Nouveau dossier\Img\003.jpg
+D:/test jeux tt/Nouveau dossier\Img\003.png
+D:/test jeux tt/Nouveau dossier\Img\004.jpg
+D:/test jeux tt/Nouveau dossier\Img\004.png
+D:/test jeux tt/Nouveau dossier\Img\005.png
+D:/test jeux tt/Nouveau dossier\Img\006.jpg
+D:/test jeux tt/Nouveau dossier\Img\006.png
+D:/test jeux tt/Nouveau dossier\Img\007.jpg
+D:/test jeux tt/Nouveau dossier\Img\007.png
+D:/test jeux tt/Nouveau dossier\Img\008.jpg
+D:/test jeux tt/Nouveau dossier\Img\008.png
+D:/test jeux tt/Nouveau dossier\Img\009.jpg
+D:/test jeux tt/Nouveau dossier\Img\009.png
+D:/test jeux tt/Nouveau dossier\Img\010.jpg
+D:/test jeux tt/Nouveau dossier\Img\010.png
+D:/test jeux tt/Nouveau dossier\Img\011.jpg
+D:/test jeux tt/Nouveau dossier\Img\011.png
+D:/test jeux tt/Nouveau dossier\Img\012.jpg
+D:/test jeux tt/Nouveau dossier\Img\012.png
+D:/test jeux tt/Nouveau dossier\Img\013.jpg
+D:/test jeux tt/Nouveau dossier\Img\013.png
+D:/test jeux tt/Nouveau dossier\Img\014.jpg
+D:/test jeux tt/Nouveau dossier\Img\014.png
+D:/test jeux tt/Nouveau dossier\Img\015.jpg
+D:/test jeux tt/Nouveau dossier\Img\015.png
+D:/test jeux tt/Nouveau dossier\Img\016.jpg
+D:/test jeux tt/Nouveau dossier\Img\016.png
+D:/test jeux tt/Nouveau dossier\Img\017.jpg
+D:/test jeux tt/Nouveau dossier\Img\017.png
+D:/test jeux tt/Nouveau dossier\Img\018.jpg
+D:/test jeux tt/Nouveau dossier\Img\018.png
+D:/test jeux tt/Nouveau dossier\Img\019.jpg
+D:/test jeux tt/Nouveau dossier\Img\019.png
+D:/test jeux tt/Nouveau dossier\Img\020.jpg
+D:/test jeux tt/Nouveau dossier\Img\020.png
+D:/test jeux tt/Nouveau dossier\Img\021.jpg
+D:/test jeux tt/Nouveau dossier\Img\021.png
+D:/test jeux tt/Nouveau dossier\Img\022.jpg
+D:/test jeux tt/Nouveau dossier\Img\022.png
+D:/test jeux tt/Nouveau dossier\Img\023.jpg
+D:/test jeux tt/Nouveau dossier\Img\023.png
+D:/test jeux tt/Nouveau dossier\Img\024.jpg
+D:/test jeux tt/Nouveau dossier\Img\024.png
+D:/test jeux tt/Nouveau dossier\Img\025.jpg
+D:/test jeux tt/Nouveau dossier\Img\025.png
+D:/test jeux tt/Nouveau dossier\Img\026.jpg
+D:/test jeux tt/Nouveau dossier\Img\026.png
+D:/test jeux tt/Nouveau dossier\Img\027.jpg
+D:/test jeux tt/Nouveau dossier\Img\027.png
+D:/test jeux tt/Nouveau dossier\Img\028.jpg
+D:/test jeux tt/Nouveau dossier\Img\028.png
+D:/test jeux tt/Nouveau dossier\Img\029.jpg
+D:/test jeux tt/Nouveau dossier\Img\029.png
+D:/test jeux tt/Nouveau dossier\Img\030.jpg
+D:/test jeux tt/Nouveau dossier\Img\030.png
+D:/test jeux tt/Nouveau dossier\Img\031.jpg
+D:/test jeux tt/Nouveau dossier\Img\031.png
+D:/test jeux tt/Nouveau dossier\Img\032.jpg
+D:/test jeux tt/Nouveau dossier\Img\032.png
+D:/test jeux tt/Nouveau dossier\Img\033.jpg
+D:/test jeux tt/Nouveau dossier\Img\033.png
+D:/test jeux tt/Nouveau dossier\Img\034.jpg
+D:/test jeux tt/Nouveau dossier\Img\034.png
+D:/test jeux tt/Nouveau dossier\Img\035.jpg
+D:/test jeux tt/Nouveau dossier\Img\035.png
+D:/test jeux tt/Nouveau dossier\Img\036.jpg
+D:/test jeux tt/Nouveau dossier\Img\036.png
+D:/test jeux tt/Nouveau dossier\Img\037.jpg
+D:/test jeux tt/Nouveau dossier\Img\037.png
+D:/test jeux tt/Nouveau dossier\Img\038.jpg
+D:/test jeux tt/Nouveau dossier\Img\038.png
+D:/test jeux tt/Nouveau dossier\Img\039.jpg
+D:/test jeux tt/Nouveau dossier\Img\039.png
+D:/test jeux tt/Nouveau dossier\Img\040.jpg
+D:/test jeux tt/Nouveau dossier\Img\040.png
+D:/test jeux tt/Nouveau dossier\Img\041.jpg
+D:/test jeux tt/Nouveau dossier\Img\041.png
+D:/test jeux tt/Nouveau dossier\Img\042.jpg
+D:/test jeux tt/Nouveau dossier\Img\042.png
+D:/test jeux tt/Nouveau dossier\Img\043.jpg
+D:/test jeux tt/Nouveau dossier\Img\043.png
+D:/test jeux tt/Nouveau dossier\Img\044.jpg
+D:/test jeux tt/Nouveau dossier\Img\044.png
+D:/test jeux tt/Nouveau dossier\Img\045.jpg
+D:/test jeux tt/Nouveau dossier\Img\045.png
+D:/test jeux tt/Nouveau dossier\Img\046.jpg
+D:/test jeux tt/Nouveau dossier\Img\046.png
+D:/test jeux tt/Nouveau dossier\Img\047.jpg
+D:/test jeux tt/Nouveau dossier\Img\047.png
+D:/test jeux tt/Nouveau dossier\Img\048.jpg
+D:/test jeux tt/Nouveau dossier\Img\048.png
+D:/test jeux tt/Nouveau dossier\Img\049.jpg
+D:/test jeux tt/Nouveau dossier\Img\049.png
+D:/test jeux tt/Nouveau dossier\Img\050.jpg
+D:/test jeux tt/Nouveau dossier\Img\050.png
+D:/test jeux tt/Nouveau dossier\Img\051.jpg
+D:/test jeux tt/Nouveau dossier\Img\051.png
+D:/test jeux tt/Nouveau dossier\Img\052.jpg
+D:/test jeux tt/Nouveau dossier\Img\052.png
+D:/test jeux tt/Nouveau dossier\Img\053.jpg
+D:/test jeux tt/Nouveau dossier\Img\053.png
+D:/test jeux tt/Nouveau dossier\Img\054.jpg
+D:/test jeux tt/Nouveau dossier\Img\054.png
+D:/test jeux tt/Nouveau dossier\Img\055.jpg
+D:/test jeux tt/Nouveau dossier\Img\055.png
+D:/test jeux tt/Nouveau dossier\Img\056.jpg
+D:/test jeux tt/Nouveau dossier\Img\056.png
+D:/test jeux tt/Nouveau dossier\Img\057.jpg
+D:/test jeux tt/Nouveau dossier\Img\057.png
+D:/test jeux tt/Nouveau dossier\Img\058.jpg
+D:/test jeux tt/Nouveau dossier\Img\058.png
+D:/test jeux tt/Nouveau dossier\Img\059.jpg
+D:/test jeux tt/Nouveau dossier\Img\059.png
+D:/test jeux tt/Nouveau dossier\Img\060.jpg
+D:/test jeux tt/Nouveau dossier\Img\060.png
+D:/test jeux tt/Nouveau dossier\Img\061.jpg
+D:/test jeux tt/Nouveau dossier\Img\061.png
+D:/test jeux tt/Nouveau dossier\Img\062.jpg
+D:/test jeux tt/Nouveau dossier\Img\062.png
+D:/test jeux tt/Nouveau dossier\Img\063.jpg
+D:/test jeux tt/Nouveau dossier\Img\063.png
+D:/test jeux tt/Nouveau dossier\Img\064.jpg
+D:/test jeux tt/Nouveau dossier\Img\064.png
+D:/test jeux tt/Nouveau dossier\Img\065.jpg
+D:/test jeux tt/Nouveau dossier\Img\065.png
+D:/test jeux tt/Nouveau dossier\Img\066.jpg
+D:/test jeux tt/Nouveau dossier\Img\066.png
+D:/test jeux tt/Nouveau dossier\Img\067.jpg
+D:/test jeux tt/Nouveau dossier\Img\067.png
+D:/test jeux tt/Nouveau dossier\Img\068.jpg
+D:/test jeux tt/Nouveau dossier\Img\068.png
+D:/test jeux tt/Nouveau dossier\Img\069.jpg
+D:/test jeux tt/Nouveau dossier\Img\069.png
+D:/test jeux tt/Nouveau dossier\Img\070.jpg
+D:/test jeux tt/Nouveau dossier\Img\070.png
+D:/test jeux tt/Nouveau dossier\Img\071.jpg
+D:/test jeux tt/Nouveau dossier\Img\071.png
+D:/test jeux tt/Nouveau dossier\Img\072.jpg
+D:/test jeux tt/Nouveau dossier\Img\072.png
+D:/test jeux tt/Nouveau dossier\Img\073.jpg
+D:/test jeux tt/Nouveau dossier\Img\073.png
+D:/test jeux tt/Nouveau dossier\Img\074.jpg
+D:/test jeux tt/Nouveau dossier\Img\074.png
+D:/test jeux tt/Nouveau dossier\Img\075.jpg
+D:/test jeux tt/Nouveau dossier\Img\075.png
+D:/test jeux tt/Nouveau dossier\Img\076.jpg
+D:/test jeux tt/Nouveau dossier\Img\076.png
+D:/test jeux tt/Nouveau dossier\Img\077.jpg
+D:/test jeux tt/Nouveau dossier\Img\077.png
+D:/test jeux tt/Nouveau dossier\Img\078.jpg
+D:/test jeux tt/Nouveau dossier\Img\078.png
+D:/test jeux tt/Nouveau dossier\Img\079.jpg
+D:/test jeux tt/Nouveau dossier\Img\079.png
+D:/test jeux tt/Nouveau dossier\Img\080.jpg
+D:/test jeux tt/Nouveau dossier\Img\080.png
+D:/test jeux tt/Nouveau dossier\Img\081.jpg
+D:/test jeux tt/Nouveau dossier\Img\081.png
+D:/test jeux tt/Nouveau dossier\Img\082.jpg
+D:/test jeux tt/Nouveau dossier\Img\082.png
+D:/test jeux tt/Nouveau dossier\Img\083.jpg
+D:/test jeux tt/Nouveau dossier\Img\083.png
+D:/test jeux tt/Nouveau dossier\Img\084.jpg
+D:/test jeux tt/Nouveau dossier\Img\084.png
+D:/test jeux tt/Nouveau dossier\Img\085.jpg
+D:/test jeux tt/Nouveau dossier\Img\085.png
+D:/test jeux tt/Nouveau dossier\Img\086.jpg
+D:/test jeux tt/Nouveau dossier\Img\086.png
+D:/test jeux tt/Nouveau dossier\Img\087.jpg
+D:/test jeux tt/Nouveau dossier\Img\087.png
+D:/test jeux tt/Nouveau dossier\Img\088.jpg
+D:/test jeux tt/Nouveau dossier\Img\088.png
+D:/test jeux tt/Nouveau dossier\Img\089.jpg
+D:/test jeux tt/Nouveau dossier\Img\089.png
+D:/test jeux tt/Nouveau dossier\Img\090.jpg
+D:/test jeux tt/Nouveau dossier\Img\090.png
+D:/test jeux tt/Nouveau dossier\Img\091.jpg
+D:/test jeux tt/Nouveau dossier\Img\091.png
+D:/test jeux tt/Nouveau dossier\Img\092.jpg
+D:/test jeux tt/Nouveau dossier\Img\092.png
+D:/test jeux tt/Nouveau dossier\Img\093.jpg
+D:/test jeux tt/Nouveau dossier\Img\093.png
+D:/test jeux tt/Nouveau dossier\Img\094.jpg
+D:/test jeux tt/Nouveau dossier\Img\094.png
+D:/test jeux tt/Nouveau dossier\Img\095.jpg
+D:/test jeux tt/Nouveau dossier\Img\095.png
+D:/test jeux tt/Nouveau dossier\Img\096.jpg
+D:/test jeux tt/Nouveau dossier\Img\096.png
+D:/test jeux tt/Nouveau dossier\Img\097.jpg
+D:/test jeux tt/Nouveau dossier\Img\097.png
+D:/test jeux tt/Nouveau dossier\Img\098.jpg
+D:/test jeux tt/Nouveau dossier\Img\098.png
+D:/test jeux tt/Nouveau dossier\Img\099.jpg
+D:/test jeux tt/Nouveau dossier\Img\099.png
+D:/test jeux tt/Nouveau dossier\Img\100.jpg
+D:/test jeux tt/Nouveau dossier\Img\100.png
+D:/test jeux tt/Nouveau dossier\Img\101.jpg
+D:/test jeux tt/Nouveau dossier\Img\101.png
+D:/test jeux tt/Nouveau dossier\Img\102.jpg
+D:/test jeux tt/Nouveau dossier\Img\102.png
+D:/test jeux tt/Nouveau dossier\Img\103.jpg
+D:/test jeux tt/Nouveau dossier\Img\103.png
+D:/test jeux tt/Nouveau dossier\Img\104.jpg
+D:/test jeux tt/Nouveau dossier\Img\104.png
+D:/test jeux tt/Nouveau dossier\Img\105.jpg
+D:/test jeux tt/Nouveau dossier\Img\105.png
+D:/test jeux tt/Nouveau dossier\Img\106.jpg
+D:/test jeux tt/Nouveau dossier\Img\106.png
+D:/test jeux tt/Nouveau dossier\Img\107.jpg
+D:/test jeux tt/Nouveau dossier\Img\107.png
+D:/test jeux tt/Nouveau dossier\Img\108.jpg
+D:/test jeux tt/Nouveau dossier\Img\108.png
+D:/test jeux tt/Nouveau dossier\Img\109.jpg
+D:/test jeux tt/Nouveau dossier\Img\109.png
+D:/test jeux tt/Nouveau dossier\Img\110.jpg
+D:/test jeux tt/Nouveau dossier\Img\110.png
+D:/test jeux tt/Nouveau dossier\Img\board-mat.jpg
+D:/test jeux tt/Nouveau dossier\Img\bonus.png
+D:/test jeux tt/Nouveau dossier\Img\card-back.png
+D:/test jeux tt/Nouveau dossier\Img\card.png
+D:/test jeux tt/Nouveau dossier\Img\cardbleu.png
+D:/test jeux tt/Nouveau dossier\Img\cardrouge.png
+D:/test jeux tt/Nouveau dossier\Img\cursor.png
+D:/test jeux tt/Nouveau dossier\Img\element.png
+D:/test jeux tt/Nouveau dossier\Img\frame-1-normal.png
+D:/test jeux tt/Nouveau dossier\Img\frame-2-boss.png
+D:/test jeux tt/Nouveau dossier\Img\frame-3-gf.png
+D:/test jeux tt/Nouveau dossier\Img\frame-4-character.png
+D:/test jeux tt/Nouveau dossier\Img\icon-auto.png
+D:/test jeux tt/Nouveau dossier\Img\icon-info.png
+D:/test jeux tt/Nouveau dossier\Img\icon-pause.png
+D:/test jeux tt/Nouveau dossier\Img\icon-play.png
+D:/test jeux tt/Nouveau dossier\Img\icon-restart.png
+D:/test jeux tt/Nouveau dossier\Img\icon-rules.png
+D:/test jeux tt/Nouveau dossier\Img\icon-sound-off.png
+D:/test jeux tt/Nouveau dossier\Img\icon-sound-on.png
+D:/test jeux tt/Nouveau dossier\Img\info-box.png
+D:/test jeux tt/Nouveau dossier\Img\info-text.png
+D:/test jeux tt/Nouveau dossier\Img\rank.png
+D:/test jeux tt/Nouveau dossier\Img\result.png
+D:/test jeux tt/Nouveau dossier\Img\score.png
+D:/test jeux tt/Nouveau dossier\Img\special.png
+D:/test jeux tt/Nouveau dossier\Img\spinner.png
+D:/test jeux tt/Nouveau dossier\Img\cards\001.png
+D:/test jeux tt/Nouveau dossier\Img\cards\002.png
+D:/test jeux tt/Nouveau dossier\Img\cards\003.png
+D:/test jeux tt/Nouveau dossier\Img\cards\004.png
+D:/test jeux tt/Nouveau dossier\Img\cards\005.png
+D:/test jeux tt/Nouveau dossier\Img\cards\006.png
+D:/test jeux tt/Nouveau dossier\Img\cards\007.png
+D:/test jeux tt/Nouveau dossier\Img\cards\008.png
+D:/test jeux tt/Nouveau dossier\Img\cards\009.png
+D:/test jeux tt/Nouveau dossier\Img\cards\010.png
+D:/test jeux tt/Nouveau dossier\Img\cards\011.png
+D:/test jeux tt/Nouveau dossier\Img\cards\012.png
+D:/test jeux tt/Nouveau dossier\Img\cards\013.png
+D:/test jeux tt/Nouveau dossier\Img\cards\014.png
+D:/test jeux tt/Nouveau dossier\Img\cards\015.png
+D:/test jeux tt/Nouveau dossier\Img\cards\016.png
+D:/test jeux tt/Nouveau dossier\Img\cards\017.png
+D:/test jeux tt/Nouveau dossier\Img\cards\018.png
+D:/test jeux tt/Nouveau dossier\Img\cards\019.png
+D:/test jeux tt/Nouveau dossier\Img\cards\020.png
+D:/test jeux tt/Nouveau dossier\Img\cards\021.png
+D:/test jeux tt/Nouveau dossier\Img\cards\022.png
+D:/test jeux tt/Nouveau dossier\Img\cards\023.png
+D:/test jeux tt/Nouveau dossier\Img\cards\024.png
+D:/test jeux tt/Nouveau dossier\Img\cards\025.png
+D:/test jeux tt/Nouveau dossier\Img\cards\026.png
+D:/test jeux tt/Nouveau dossier\Img\cards\027.png
+D:/test jeux tt/Nouveau dossier\Img\cards\028.png
+D:/test jeux tt/Nouveau dossier\Img\cards\029.png
+D:/test jeux tt/Nouveau dossier\Img\cards\030.png
+D:/test jeux tt/Nouveau dossier\Img\cards\031.png
+D:/test jeux tt/Nouveau dossier\Img\cards\032.png
+D:/test jeux tt/Nouveau dossier\Img\cards\033.png
+D:/test jeux tt/Nouveau dossier\Img\cards\034.png
+D:/test jeux tt/Nouveau dossier\Img\cards\035.png
+D:/test jeux tt/Nouveau dossier\Img\cards\036.png
+D:/test jeux tt/Nouveau dossier\Img\cards\037.png
+D:/test jeux tt/Nouveau dossier\Img\cards\038.png
+D:/test jeux tt/Nouveau dossier\Img\cards\039.png
+D:/test jeux tt/Nouveau dossier\Img\cards\040.png
+D:/test jeux tt/Nouveau dossier\Img\cards\041.png
+D:/test jeux tt/Nouveau dossier\Img\cards\042.png
+D:/test jeux tt/Nouveau dossier\Img\cards\043.png
+D:/test jeux tt/Nouveau dossier\Img\cards\044.png
+D:/test jeux tt/Nouveau dossier\Img\cards\045.png
+D:/test jeux tt/Nouveau dossier\Img\cards\046.png
+D:/test jeux tt/Nouveau dossier\Img\cards\047.png
+D:/test jeux tt/Nouveau dossier\Img\cards\048.png
+D:/test jeux tt/Nouveau dossier\Img\cards\049.png
+D:/test jeux tt/Nouveau dossier\Img\cards\050.png
+D:/test jeux tt/Nouveau dossier\Img\cards\051.png
+D:/test jeux tt/Nouveau dossier\Img\cards\052.png
+D:/test jeux tt/Nouveau dossier\Img\cards\053.png
+D:/test jeux tt/Nouveau dossier\Img\cards\054.png
+D:/test jeux tt/Nouveau dossier\Img\cards\055.png
+D:/test jeux tt/Nouveau dossier\Img\cards\056.png
+D:/test jeux tt/Nouveau dossier\Img\cards\057.png
+D:/test jeux tt/Nouveau dossier\Img\cards\058.png
+D:/test jeux tt/Nouveau dossier\Img\cards\059.png
+D:/test jeux tt/Nouveau dossier\Img\cards\060.png
+D:/test jeux tt/Nouveau dossier\Img\cards\061.png
+D:/test jeux tt/Nouveau dossier\Img\cards\062.png
+D:/test jeux tt/Nouveau dossier\Img\cards\063.png
+D:/test jeux tt/Nouveau dossier\Img\cards\064.png
+D:/test jeux tt/Nouveau dossier\Img\cards\065.png
+D:/test jeux tt/Nouveau dossier\Img\cards\066.png
+D:/test jeux tt/Nouveau dossier\Img\cards\067.png
+D:/test jeux tt/Nouveau dossier\Img\cards\068.png
+D:/test jeux tt/Nouveau dossier\Img\cards\069.png
+D:/test jeux tt/Nouveau dossier\Img\cards\070.png
+D:/test jeux tt/Nouveau dossier\Img\cards\071.png
+D:/test jeux tt/Nouveau dossier\Img\cards\072.png
+D:/test jeux tt/Nouveau dossier\Img\cards\073.png
+D:/test jeux tt/Nouveau dossier\Img\cards\074.png
+D:/test jeux tt/Nouveau dossier\Img\cards\075.png
+D:/test jeux tt/Nouveau dossier\Img\cards\076.png
+D:/test jeux tt/Nouveau dossier\Img\cards\077.png
+D:/test jeux tt/Nouveau dossier\Img\cards\078.png
+D:/test jeux tt/Nouveau dossier\Img\cards\079.png
+D:/test jeux tt/Nouveau dossier\Img\cards\080.png
+D:/test jeux tt/Nouveau dossier\Img\cards\081.png
+D:/test jeux tt/Nouveau dossier\Img\cards\082.png
+D:/test jeux tt/Nouveau dossier\Img\cards\083.png
+D:/test jeux tt/Nouveau dossier\Img\cards\084.png
+D:/test jeux tt/Nouveau dossier\Img\cards\085.png
+D:/test jeux tt/Nouveau dossier\Img\cards\086.png
+D:/test jeux tt/Nouveau dossier\Img\cards\087.png
+D:/test jeux tt/Nouveau dossier\Img\cards\088.png
+D:/test jeux tt/Nouveau dossier\Img\cards\089.png
+D:/test jeux tt/Nouveau dossier\Img\cards\090.png
+D:/test jeux tt/Nouveau dossier\Img\cards\091.png
+D:/test jeux tt/Nouveau dossier\Img\cards\092.png
+D:/test jeux tt/Nouveau dossier\Img\cards\093.png
+D:/test jeux tt/Nouveau dossier\Img\cards\094.png
+D:/test jeux tt/Nouveau dossier\Img\cards\095.png
+D:/test jeux tt/Nouveau dossier\Img\cards\096.png
+D:/test jeux tt/Nouveau dossier\Img\cards\097.png
+D:/test jeux tt/Nouveau dossier\Img\cards\098.png
+D:/test jeux tt/Nouveau dossier\Img\cards\099.png
+D:/test jeux tt/Nouveau dossier\Img\cards\100.png
+D:/test jeux tt/Nouveau dossier\Img\cards\101.png
+D:/test jeux tt/Nouveau dossier\Img\cards\102.png
+D:/test jeux tt/Nouveau dossier\Img\cards\103.png
+D:/test jeux tt/Nouveau dossier\Img\cards\104.png
+D:/test jeux tt/Nouveau dossier\Img\cards\105.png
+D:/test jeux tt/Nouveau dossier\Img\cards\106.png
+D:/test jeux tt/Nouveau dossier\Img\cards\107.png
+D:/test jeux tt/Nouveau dossier\Img\cards\108.png
+D:/test jeux tt/Nouveau dossier\Img\cards\109.png
+D:/test jeux tt/Nouveau dossier\Img\cards\110.png
+D:/test jeux tt/Nouveau dossier\Img\cards\frame-1-normal.png
+D:/test jeux tt/Nouveau dossier\Img\cards\frame-2-boss.png
+D:/test jeux tt/Nouveau dossier\Img\cards\frame-3-gf.png
+D:/test jeux tt/Nouveau dossier\Img\cards\frame-4-character.png
+D:/test jeux tt/Nouveau dossier\Img2\001.jpg
+D:/test jeux tt/Nouveau dossier\Img2\002.jpg
+D:/test jeux tt/Nouveau dossier\Img2\003.jpg
+D:/test jeux tt/Nouveau dossier\Img2\004.jpg
+D:/test jeux tt/Nouveau dossier\Img2\006.jpg
+D:/test jeux tt/Nouveau dossier\Img2\007.jpg
+D:/test jeux tt/Nouveau dossier\Img2\008.jpg
+D:/test jeux tt/Nouveau dossier\Img2\009.jpg
+D:/test jeux tt/Nouveau dossier\Img2\010.jpg
+D:/test jeux tt/Nouveau dossier\Img2\011.jpg
+D:/test jeux tt/Nouveau dossier\Img2\012.jpg
+D:/test jeux tt/Nouveau dossier\Img2\013.jpg
+D:/test jeux tt/Nouveau dossier\Img2\014.jpg
+D:/test jeux tt/Nouveau dossier\Img2\015.jpg
+D:/test jeux tt/Nouveau dossier\Img2\016.jpg
+D:/test jeux tt/Nouveau dossier\Img2\017.jpg
+D:/test jeux tt/Nouveau dossier\Img2\018.jpg
+D:/test jeux tt/Nouveau dossier\Img2\019.jpg
+D:/test jeux tt/Nouveau dossier\Img2\020.jpg
+D:/test jeux tt/Nouveau dossier\Img2\021.jpg
+D:/test jeux tt/Nouveau dossier\Img2\022.jpg
+D:/test jeux tt/Nouveau dossier\Img2\023.jpg
+D:/test jeux tt/Nouveau dossier\Img2\024.jpg
+D:/test jeux tt/Nouveau dossier\Img2\025.jpg
+D:/test jeux tt/Nouveau dossier\Img2\026.jpg
+D:/test jeux tt/Nouveau dossier\Img2\027.jpg
+D:/test jeux tt/Nouveau dossier\Img2\028.jpg
+D:/test jeux tt/Nouveau dossier\Img2\029.jpg
+D:/test jeux tt/Nouveau dossier\Img2\030.jpg
+D:/test jeux tt/Nouveau dossier\Img2\031.jpg
+D:/test jeux tt/Nouveau dossier\Img2\032.jpg
+D:/test jeux tt/Nouveau dossier\Img2\033.jpg
+D:/test jeux tt/Nouveau dossier\Img2\034.jpg
+D:/test jeux tt/Nouveau dossier\Img2\035.jpg
+D:/test jeux tt/Nouveau dossier\Img2\036.jpg
+D:/test jeux tt/Nouveau dossier\Img2\037.jpg
+D:/test jeux tt/Nouveau dossier\Img2\038.jpg
+D:/test jeux tt/Nouveau dossier\Img2\039.jpg
+D:/test jeux tt/Nouveau dossier\Img2\040.jpg
+D:/test jeux tt/Nouveau dossier\Img2\041.jpg
+D:/test jeux tt/Nouveau dossier\Img2\042.jpg
+D:/test jeux tt/Nouveau dossier\Img2\043.jpg
+D:/test jeux tt/Nouveau dossier\Img2\044.jpg
+D:/test jeux tt/Nouveau dossier\Img2\045.jpg
+D:/test jeux tt/Nouveau dossier\Img2\046.jpg
+D:/test jeux tt/Nouveau dossier\Img2\047.jpg
+D:/test jeux tt/Nouveau dossier\Img2\048.jpg
+D:/test jeux tt/Nouveau dossier\Img2\049.jpg
+D:/test jeux tt/Nouveau dossier\Img2\050.jpg
+D:/test jeux tt/Nouveau dossier\Img2\051.jpg
+D:/test jeux tt/Nouveau dossier\Img2\052.jpg
+D:/test jeux tt/Nouveau dossier\Img2\053.jpg
+D:/test jeux tt/Nouveau dossier\Img2\054.jpg
+D:/test jeux tt/Nouveau dossier\Img2\055.jpg
+D:/test jeux tt/Nouveau dossier\Img2\056.jpg
+D:/test jeux tt/Nouveau dossier\Img2\057.jpg
+D:/test jeux tt/Nouveau dossier\Img2\058.jpg
+D:/test jeux tt/Nouveau dossier\Img2\059.jpg
+D:/test jeux tt/Nouveau dossier\Img2\060.jpg
+D:/test jeux tt/Nouveau dossier\Img2\061.jpg
+D:/test jeux tt/Nouveau dossier\Img2\062.jpg
+D:/test jeux tt/Nouveau dossier\Img2\063.jpg
+D:/test jeux tt/Nouveau dossier\Img2\064.jpg
+D:/test jeux tt/Nouveau dossier\Img2\065.jpg
+D:/test jeux tt/Nouveau dossier\Img2\066.jpg
+D:/test jeux tt/Nouveau dossier\Img2\067.jpg
+D:/test jeux tt/Nouveau dossier\Img2\068.jpg
+D:/test jeux tt/Nouveau dossier\Img2\069.jpg
+D:/test jeux tt/Nouveau dossier\Img2\070.jpg
+D:/test jeux tt/Nouveau dossier\Img2\071.jpg
+D:/test jeux tt/Nouveau dossier\Img2\072.jpg
+D:/test jeux tt/Nouveau dossier\Img2\073.jpg
+D:/test jeux tt/Nouveau dossier\Img2\074.jpg
+D:/test jeux tt/Nouveau dossier\Img2\075.jpg
+D:/test jeux tt/Nouveau dossier\Img2\076.jpg
+D:/test jeux tt/Nouveau dossier\Img2\077.jpg
+D:/test jeux tt/Nouveau dossier\Img2\078.jpg
+D:/test jeux tt/Nouveau dossier\Img2\079.jpg
+D:/test jeux tt/Nouveau dossier\Img2\080.jpg
+D:/test jeux tt/Nouveau dossier\Img2\081.jpg
+D:/test jeux tt/Nouveau dossier\Img2\082.jpg
+D:/test jeux tt/Nouveau dossier\Img2\083.jpg
+D:/test jeux tt/Nouveau dossier\Img2\084.jpg
+D:/test jeux tt/Nouveau dossier\Img2\085.jpg
+D:/test jeux tt/Nouveau dossier\Img2\086.jpg
+D:/test jeux tt/Nouveau dossier\Img2\087.jpg
+D:/test jeux tt/Nouveau dossier\Img2\088.jpg
+D:/test jeux tt/Nouveau dossier\Img2\089.jpg
+D:/test jeux tt/Nouveau dossier\Img2\090.jpg
+D:/test jeux tt/Nouveau dossier\Img2\091.jpg
+D:/test jeux tt/Nouveau dossier\Img2\092.jpg
+D:/test jeux tt/Nouveau dossier\Img2\093.jpg
+D:/test jeux tt/Nouveau dossier\Img2\094.jpg
+D:/test jeux tt/Nouveau dossier\Img2\095.jpg
+D:/test jeux tt/Nouveau dossier\Img2\096.jpg
+D:/test jeux tt/Nouveau dossier\Img2\097.jpg
+D:/test jeux tt/Nouveau dossier\Img2\098.jpg
+D:/test jeux tt/Nouveau dossier\Img2\099.jpg
+D:/test jeux tt/Nouveau dossier\Img2\100.jpg
+D:/test jeux tt/Nouveau dossier\Img2\101.jpg
+D:/test jeux tt/Nouveau dossier\Img2\102.jpg
+D:/test jeux tt/Nouveau dossier\Img2\103.jpg
+D:/test jeux tt/Nouveau dossier\Img2\104.jpg
+D:/test jeux tt/Nouveau dossier\Img2\105.jpg
+D:/test jeux tt/Nouveau dossier\Img2\106.jpg
+D:/test jeux tt/Nouveau dossier\Img2\107.jpg
+D:/test jeux tt/Nouveau dossier\Img2\108.jpg
+D:/test jeux tt/Nouveau dossier\Img2\109.jpg
+D:/test jeux tt/Nouveau dossier\.vscode\settings.json
