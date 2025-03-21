@@ -2,6 +2,9 @@
 
 Bienvenue sur le projet Triple Triad Client ! Ce projet combine un client de chat avec un jeu de cartes Triple Triad, le tout intégré dans une interface graphique conviviale.
 
+![Capture d'écran du client IRC](images/irc_client7.jpg)
+![Capture d'écran du jeu Triple Triad](images/jeux_triple_triad.jpg)
+
 ## Description
 
 Ce projet est composé de deux parties principales :
@@ -99,10 +102,10 @@ Le jeu Triple Triad implémente plusieurs règles :
 *   `irc_client7.py` : Fichier principal du client de chat et de l'interface graphique.
 *   `test_jeux_tt2.py` : Fichier principal du jeu Triple Triad.
 *   `card.py` : Classe pour la gestion des cartes.
-*   `users.json` : Fichier de données pour les utilisateurs (deck, or).
-*   `cards.json` : Fichier de données pour les cartes.
+*   [users.json](http://_vscodecontentref_/3) : Fichier de données pour les utilisateurs (deck, or).
+*   [cards.json](http://_vscodecontentref_/4) : Fichier de données pour les cartes.
 *   `selected_cards.json` : Fichier de données pour les cartes sélectionnées.
-*   `Img/` : Dossier contenant les images des cartes.
+*   [Img](http://_vscodecontentref_/5) : Dossier contenant les images des cartes.
 *   `ai_logic.py` : Fichier pour la logique de l'IA.
 *   `capture_manager.py` : Fichier pour la gestion des captures.
 *   `drawing.py` : Fichier pour la gestion des dessins.
@@ -147,9 +150,8 @@ Le fichier `irc_client7.spec` est fourni pour vous aider à compiler le projet a
     python irc_client7.py compile
     ```
 
-    Cela créera un dossier `dist` contenant l'exécutable.
+    Cela créera un dossier [dist](http://_vscodecontentref_/6) contenant l'exécutable.
 
 ## Contribuer
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
-
