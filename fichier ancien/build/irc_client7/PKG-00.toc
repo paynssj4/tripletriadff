@@ -1,0 +1,75 @@
+('D:\\test jeux tt\\Nouveau dossier\\fichier '
+ 'ancien\\build\\irc_client7\\irc_client7.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier '
+   'ancien\\build\\irc_client7\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\test jeux tt\\Nouveau '
+   'dossier\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('irc_client7',
+   'D:\\test jeux tt\\Nouveau dossier\\fichier ancien\\irc_client7.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

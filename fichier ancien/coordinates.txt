@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="18" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Sun Jan 26 14:40:04 2025
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">greg</m>
+<m key="dc.date">Sun Jan 26 14:40:04 2025
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="6315" last-saved="1737898804" uid="587b2b5c-dbdc-11ef-84bd-da62578bf5d9">
+<version id="1" started="1737898804" uid="0c5bf3be-dbeb-11ef-84bd-da62578bf5d9" auto="0" top-xid="18"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="2"><c props="font-family:Courier">user_column: x=0, y=0, width=319, height=736</c></p>
+<p style="Normal" xid="7"><c>opponemen/ai_column: x=937, y=2, width=317, height=730</c></p>
+<p style="Normal" xid="10"><c>cell_1: x=319, y=50, width=206, height=210</c></p>
+<p style="Normal" xid="13"><c>cell_2: x=525, y=50, width=206, height=210 </c></p>
+<p style="Normal" xid="16"><c></c><c>cell_3: x=731, y=50, width=206, height=210</c></p>
+<p style="Normal" xid="14"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_4: x=319, y=260, width=206, height=210</c></p>
+<p style="Normal" xid="17"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_5: x=525, y=260, width=206, height=210</c></p>
+<p style="Normal" xid="15"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_6: x=731, y=260, width=206, height=210</c></p>
+<p style="Normal" xid="18"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_7: x=319, y=470, width=206, height=210</c></p>
+<p style="Normal" xid="11"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_8: x=525, y=470, width=206, height=210</c></p>
+<p style="Normal" xid="12"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:fr-FR">cell_9: x=731, y=470, width=206, height=210</c></p>
+<p style="Normal" xid="8"><c></c></p>
+<p style="Normal" xid="9"><c></c></p>
+</section>
+</abiword>

@@ -1,0 +1,13 @@
+{
+    "user_column": { "x": 0, "y": 0, "width": 319, "height": 736 },
+    "opponemen/ai_column": { "x": 937, "y": 2, "width": 317, "height": 730 },
+    "cell_1": { "x": 319, "y": 50, "width": 206, "height": 210 },
+    "cell_2": { "x": 525, "y": 50, "width": 206, "height": 210 },
+    "cell_3": { "x": 731, "y": 50, "width": 206, "height": 210 },
+    "cell_4": { "x": 319, "y": 260, "width": 206, "height": 210 },
+    "cell_5": { "x": 525, "y": 260, "width": 206, "height": 210 },
+    "cell_6": { "x": 731, "y": 260, "width": 206, "height": 210 },
+    "cell_7": { "x": 319, "y": 470, "width": 206, "height": 210 },
+    "cell_8": { "x": 525, "y": 470, "width": 206, "height": 210 },
+    "cell_9": { "x": 731, "y": 470, "width": 206, "height": 210 }
+  }
