@@ -152,6 +152,10 @@ Le fichier `irc_client7.spec` est fourni pour vous aider à compiler le projet a
 
     Cela créera un dossier [dist](http://_vscodecontentref_/6) contenant l'exécutable.
 
+## Ressources
+
+Les ressources utilisées dans ce projet proviennent d'un autre projet. Je les ai utilisées pour m'entraîner en Python et développer cette application.
+
 ## Contribuer
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
