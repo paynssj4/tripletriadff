@@ -1,13 +1,13 @@
-# Triple Triad Client IRC
+# Triple Triad Client
 
-Bienvenue sur le projet Triple Triad Client IRC ! Ce projet combine un client de chat IRC avec un jeu de cartes Triple Triad, le tout intégré dans une interface graphique conviviale.
+Bienvenue sur le projet Triple Triad Client ! Ce projet combine un client de chat avec un jeu de cartes Triple Triad, le tout intégré dans une interface graphique conviviale.
 
 ## Description
 
 Ce projet est composé de deux parties principales :
 
-1.  **Client IRC (`irc_client7.py`) :**
-    *   Permet aux utilisateurs de se connecter à un serveur de chat via le protocole IRC.
+1.  **Client de Chat et Gestion de Deck (`irc_client7.py`) :**
+    *   Permet aux utilisateurs de se connecter à un serveur de chat via le protocole ZeroMQ.
     *   Possibilité d'envoyer des messages publics et privés.
     *   Gestion des utilisateurs connectés.
     *   Système d'authentification par nom d'utilisateur.
@@ -15,7 +15,7 @@ Ce projet est composé de deux parties principales :
     *   Possibilité de défier d'autres utilisateurs en duel.
     *   Gestion de l'or (monnaie virtuelle).
     *   Sauvegarde et chargement du deck de l'utilisateur.
-    *   Gestion de la selection des cartes.
+    *   Gestion de la sélection des cartes.
     *   Possibilité de lancer une partie solo.
 
 2.  **Jeu Triple Triad (`test_jeux_tt2.py`) :**
@@ -28,16 +28,32 @@ Ce projet est composé de deux parties principales :
 
 ## Fonctionnalités
 
-*   **Chat IRC :** Communiquez avec d'autres joueurs en temps réel.
+*   **Chat :** Communiquez avec d'autres joueurs en temps réel.
 *   **Triple Triad :** Jouez au célèbre jeu de cartes.
 *   **Inventaire :** Gérez votre collection de cartes.
 *   **Gestion de Deck :** Créez et personnalisez votre deck de 5 cartes.
 *   **Défis :** Défiez d'autres joueurs en duel.
 *   **Partie Solo :** Affrontez une IA pour vous entraîner.
 *   **Gestion de l'or :** Gérer votre argent virtuel.
-*   **Sauvegarde :** Sauvegarder votre deck et votre selection de cartes.
+*   **Sauvegarde :** Sauvegarder votre deck et votre sélection de cartes.
 *   **Interface graphique :** Interface utilisateur intuitive et agréable.
 *   **Gestion des sons :** Des sons pour une meilleure immersion.
+
+## Règles du Jeu
+
+Le jeu Triple Triad implémente plusieurs règles :
+
+1. **Base :** Les cartes sont placées sur le plateau et les captures sont effectuées en fonction des chiffres sur les cartes adjacentes.
+2. **Identique :** Si deux cartes adjacentes ont le même chiffre sur les côtés en contact, elles sont capturées.
+3. **Plus :** Si la somme des chiffres de deux cartes adjacentes est égale à la somme des chiffres de deux autres cartes adjacentes, elles sont capturées.
+4. **Aléatoire + Combo :** Les cartes sont distribuées aléatoirement et les captures en chaîne sont possibles.
+
+## Défauts Actuels et Améliorations en Cours
+
+* **Captures en Cascade :** Les captures en cascade fonctionnent dans toutes les règles au lieu d'être appliquées uniquement à la règle "Aléatoire + Combo".
+* **Rotation des Cartes :** La rotation des cartes sera modifiée pour une meilleure animation.
+* **Logique du Jeu :** La logique du jeu est en cours d'amélioration pour corriger les bugs et améliorer l'expérience de jeu.
+* **Interface de Chat :** L'interface pour le chat est en cours d'amélioration pour une meilleure convivialité et fonctionnalité.
 
 ## Installation
 
@@ -70,7 +86,7 @@ Ce projet est composé de deux parties principales :
 
 3.  **Exécution :**
     *   Naviguez jusqu'au répertoire du projet dans votre terminal.
-    *   Exécutez le client IRC avec la commande :
+    *   Exécutez le client avec la commande :
 
     ```bash
     python irc_client7.py
@@ -80,13 +96,12 @@ Ce projet est composé de deux parties principales :
 
 ## Structure du projet
 
-*   `irc_client7.py` : Fichier principal du client IRC et de l'interface graphique.
+*   `irc_client7.py` : Fichier principal du client de chat et de l'interface graphique.
 *   `test_jeux_tt2.py` : Fichier principal du jeu Triple Triad.
-*   `card.py` : (Mentionné dans `irc_client7.py`) Classe pour la gestion des cartes.
-*   `ai2.py` : (Mentionné dans `ai_logic.py`) Classe pour la gestion des cartes.
+*   `card.py` : Classe pour la gestion des cartes.
 *   `users.json` : Fichier de données pour les utilisateurs (deck, or).
 *   `cards.json` : Fichier de données pour les cartes.
-*   `selected_cards.json` : Fichier de données pour les cartes selectionner.
+*   `selected_cards.json` : Fichier de données pour les cartes sélectionnées.
 *   `Img/` : Dossier contenant les images des cartes.
 *   `ai_logic.py` : Fichier pour la logique de l'IA.
 *   `capture_manager.py` : Fichier pour la gestion des captures.
@@ -134,6 +149,7 @@ Le fichier `irc_client7.spec` est fourni pour vous aider à compiler le projet a
 
     Cela créera un dossier `dist` contenant l'exécutable.
 
-Contribuer
+## Contribuer
+
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
 
